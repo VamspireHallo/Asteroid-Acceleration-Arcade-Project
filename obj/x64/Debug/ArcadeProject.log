@@ -1,0 +1,41 @@
+﻿  ofApp.cpp
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\apps\myApps\ArcadeProject\src\CollisionSystem.h(16,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\apps\myApps\ArcadeProject\src\CollisionSystem.h(21,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\apps\myApps\ArcadeProject\src\CollisionSystem.h(40,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\apps\myApps\ArcadeProject\src\CollisionSystem.h(45,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\apps\myApps\ArcadeProject\src\ofApp.cpp(365,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  ArcadeProject.vcxproj -> C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\apps\myApps\ArcadeProject\bin\ArcadeProject_debug.exe
+  
+  	                   2	C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\apps\myApps\ArcadeProject\bin\FreeImage.dll
+  
+  	                   1	C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\apps\myApps\ArcadeProject\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\Kondaiah.US01HWIN10365\Documents\openframeworks\apps\myApps\ArcadeProject\bin\fmodL.dll
